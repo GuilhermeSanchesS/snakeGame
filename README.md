@@ -4,27 +4,24 @@
   </a>
 </p>
 
-<h1 align="center">Jogo da Cobrinha/h1>
-<p align="center">Projeto realizado com base na interface do Spotify</p>
-
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=npm&message=6.14.6&color=C53534&style=flat-square&logo=npm"/>
-  <img src="https://img.shields.io/static/v1?label=react&message=^17.0.1&color=61D9FB&style=flat-square&logo=react"/>
-</p>
+<h1 align="center">Jogo da Cobrinha</h1>
+<p align="center">Projeto realizado durante Bootcamp Digital Innovation One</p>
 
 <p align="center">
  <a href="#-sobre">Sobre</a> •
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#-instalação">Instalação</a>
+ <a href="#-disponivel">Disponivel</a>
 </p>
 
 # 📖 Sobre
-<p>O Celcilia tem por objetivo criar um pagina com musicas com varios idiomas e diversidades de sons. Durante o desenvolvimento foi utilizado o codigo como base <a href="https://github.com/CleverProgrammers/spotify-clone">CleverProgrammers</a>:</p>
+<p>Projeto relizado na aula de javascript da Gabriela Pinheiro, na Digital Innovation One "Recriando o jogo da cobrinha com JavaScript".
 
+A partir da aula básica, adicionei um estilo visual ao jogo e adicionei as funções: Pontuação. O jogo agora conta pontuação a cada "maçã comida" pela cobra.
+</p>
 <h1>🛠 Tecnologias</h1>
 
 - Front-end web:
   - HTML / CSS / JS 
 
-<h1>👨‍💻 Instalação</h1>
-<p>Para a instalação das ferramentas que foram necessárias para o desenvolvimento do projeto, segue uma lista: </p>
+<h1>💻 Disponivel</h1>
+<p>Disponível online em http://</p>
