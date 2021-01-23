@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://i.imgur.com/oQ8wguN.png">
-    <img src="https://drive.google.com/file/d/1JYdKhbZ0kXk-3XPpNKZ9zvyT2-aSvc7Q/view" alt="Logo da Celcilia" />
+  <a href="https://snakegamedio.netlify.app/">
+    <img src="https://github.com/GuilhermeSanchesS/snakeGame/blob/main/img/snakegame.gif" alt="Logo da Celcilia" />
   </a>
 </p>
 
