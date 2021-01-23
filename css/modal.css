@@ -1,0 +1,54 @@
+.modal-container {
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: 2000;
+  display: none;
+  justify-content: center;
+  align-items: center;
+}
+.modal-container .mostrar {
+  display: flex;
+}
+.modal {
+  background: rgba(0, 0, 0, 0.8);
+  width: 50%;
+  min-width: 300px;
+  padding: 40px;
+  position: relative;
+  border-radius: 10px;
+  box-shadow: 0 0 1em #76ff03;
+}
+
+@keyframes modal {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -60px, 0);
+  }
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+.modal-container .mostrar .modal {
+  animation: modal 0.3s;
+}
+.fechar {
+  position: absolute;
+  font-size: 1.2em;
+  top: -10px;
+  right: -10px;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  border: none;
+  background: black;
+  font-family: 'Ubuntu', sans-serif;
+  color: #ffffff;
+  cursor: pointer;
+  box-shadow: 5px 0 20px 0#76ff03;
+}
