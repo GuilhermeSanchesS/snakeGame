@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://i.imgur.com/oQ8wguN.png">
-    <img src="https://i.imgur.com/oQ8wguN.png" alt="Logo da Celcilia" />
+    <img src="https://drive.google.com/file/d/1JYdKhbZ0kXk-3XPpNKZ9zvyT2-aSvc7Q/view" alt="Logo da Celcilia" />
   </a>
 </p>
 
@@ -24,4 +24,4 @@ A partir da aula básica, adicionei um estilo visual ao jogo e adicionei as fun�
   - HTML / CSS / JS 
 
 <h1>💻 Disponivel</h1>
-<p>Disponível online em http://</p>
+<p>Disponível online em https://snakegamedio.netlify.app/</p>
